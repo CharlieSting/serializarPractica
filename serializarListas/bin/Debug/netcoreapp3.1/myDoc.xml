@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Comidas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <sopas>
+    <Sopas>
+      <nombre>Sopa de Frijoles</nombre>
+      <precio>60</precio>
+    </Sopas>
+    <Sopas>
+      <nombre>Sopa de Pollo</nombre>
+      <precio>160</precio>
+    </Sopas>
+  </sopas>
+  <tora>
+    <Tortas>
+      <Nombre>Torta de Res</Nombre>
+      <Precio>55</Precio>
+    </Tortas>
+    <Tortas>
+      <Nombre>Torta de Pollo</Nombre>
+      <Precio>65</Precio>
+    </Tortas>
+  </tora>
+</Comidas>

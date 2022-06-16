@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\PROGRAMACION 2\serializarListas\serializarListas\bin\Debug\netcoreapp3.1\serializarListas.exe
+C:\Users\Carlos\Desktop\PROGRAMACION 2\serializarListas\serializarListas\bin\Debug\netcoreapp3.1\serializarListas.deps.json
+C:\Users\Carlos\Desktop\PROGRAMACION 2\serializarListas\serializarListas\bin\Debug\netcoreapp3.1\serializarListas.runtimeconfig.json
+C:\Users\Carlos\Desktop\PROGRAMACION 2\serializarListas\serializarListas\bin\Debug\netcoreapp3.1\serializarListas.runtimeconfig.dev.json
+C:\Users\Carlos\Desktop\PROGRAMACION 2\serializarListas\serializarListas\bin\Debug\netcoreapp3.1\serializarListas.dll
+C:\Users\Carlos\Desktop\PROGRAMACION 2\serializarListas\serializarListas\bin\Debug\netcoreapp3.1\serializarListas.pdb
+C:\Users\Carlos\Desktop\PROGRAMACION 2\serializarListas\serializarListas\obj\Debug\netcoreapp3.1\serializarListas.csproj.AssemblyReference.cache
+C:\Users\Carlos\Desktop\PROGRAMACION 2\serializarListas\serializarListas\obj\Debug\netcoreapp3.1\serializarListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\PROGRAMACION 2\serializarListas\serializarListas\obj\Debug\netcoreapp3.1\serializarListas.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\PROGRAMACION 2\serializarListas\serializarListas\obj\Debug\netcoreapp3.1\serializarListas.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\PROGRAMACION 2\serializarListas\serializarListas\obj\Debug\netcoreapp3.1\serializarListas.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\PROGRAMACION 2\serializarListas\serializarListas\obj\Debug\netcoreapp3.1\serializarListas.dll
+C:\Users\Carlos\Desktop\PROGRAMACION 2\serializarListas\serializarListas\obj\Debug\netcoreapp3.1\serializarListas.pdb
+C:\Users\Carlos\Desktop\PROGRAMACION 2\serializarListas\serializarListas\obj\Debug\netcoreapp3.1\serializarListas.genruntimeconfig.cache
